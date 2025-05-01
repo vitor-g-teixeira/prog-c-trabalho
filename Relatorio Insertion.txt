@@ -1,0 +1,77 @@
+Insertion Sort Best Case Scenario:
+10k (30 testes):
+Executado 30 vezes
+Tempo médio: 0.008216 segundos
+Melhor tempo (mais rápido): 0.005770 segundos
+Pior tempo (mais lento): 0.064095 segundos
+
+50k (30 testes):
+Executado 30 vezes
+Tempo médio: 0.008594 segundos
+Melhor tempo (mais rápido): 0.006104 segundos
+Pior tempo (mais lento): 0.071511 segundos
+
+100k (30 testes):
+Executado 30 vezes
+Tempo médio: 0.009434 segundos
+Melhor tempo (mais rápido): 0.006393 segundos
+Pior tempo (mais lento): 0.081345 segundos
+
+200k (30 testes):
+Executado 30 vezes
+Tempo médio: 0.010336 segundos
+Melhor tempo (mais rápido): 0.006764 segundos
+Pior tempo (mais lento): 0.104340 segundos
+
+====================================================
+Insertion Sort Worst Case Scenario:
+10k (30 testes):
+Executado 30 vezes
+Tempo médio: 0.129986 segundos
+Melhor tempo (mais rápido): 0.111067 segundos
+Pior tempo (mais lento): 0.597282 segundos
+
+50k (30 testes):
+Executado 30 vezes
+Tempo médio: 2.715458 segundos
+Melhor tempo (mais rápido): 2.642611 segundos
+Pior tempo (mais lento): 4.502607 segundos
+
+100k (30 testes):
+Executado 30 vezes
+Tempo médio: 10.613457 segundos
+Melhor tempo (mais rápido): 10.580544 segundos
+Pior tempo (mais lento): 11.115494 segundos
+
+200k (30 testes):
+Executado 30 vezes
+Tempo médio: 42.930845 segundos
+Melhor tempo (mais rápido): 42.404427 segundos
+Pior tempo (mais lento): 47.450659 segundos
+
+====================================================
+Insertion Sort Medium Case Scenario:
+10k (30 testes):
+Executado 30 vezes
+Tempo médio: 0.113819 segundos
+Melhor tempo (mais rápido): 0.058735 segundos
+Pior tempo (mais lento): 1.689582 segundos
+
+50k (30 testes):
+Executado 30 vezes
+Tempo médio: 1.387331 segundos
+Melhor tempo (mais rápido): 1.326701 segundos
+Pior tempo (mais lento): 2.883035 segundos
+
+100k (30 testes):
+Executado 30 vezes
+Tempo médio: 5.376223 segundos
+Melhor tempo (mais rápido): 5.303658 segundos
+Pior tempo (mais lento): 7.124560 segundos
+
+200k (30 testes):
+Compilando...
+Executado 30 vezes
+Tempo médio: 21.409697 segundos
+Melhor tempo (mais rápido): 21.188011 segundos
+Pior tempo (mais lento): 23.278193 segundos

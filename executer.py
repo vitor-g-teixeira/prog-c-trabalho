@@ -3,8 +3,8 @@ import time
 import os
 
 # Configurações
-ARQUIVO_C = "bubbleSortR.c"
-EXECUTAVEL = "bubbleSortR.exe"
+ARQUIVO_C = "insertionSortR.c"
+EXECUTAVEL = "insertionSortR.exe"
 NUM_EXECUCOES = 30
 
 def compilar_c(arquivo_c, executavel):
